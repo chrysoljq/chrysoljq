@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrysoljq
 - 👀 I’m interested in minecraft,math and so on
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, C/C++, Golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
